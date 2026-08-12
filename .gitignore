@@ -1,0 +1,23 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.envrc
+venv
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Sessions
+*.session
+*.session-journal
+
+# OS
+.DS_Store
+Thumbs.db
